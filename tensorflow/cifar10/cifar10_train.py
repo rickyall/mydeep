@@ -24,6 +24,8 @@ Speed: With batch_size 128.
 System        | Step Time (sec/batch)  |     Accuracy
 ------------------------------------------------------------------
 mac cpu       | 0.76-1.07              | ~86% at 1000 steps (4 hours)
+HPC cpu       | 0.35-0.41              | ~86% at 1000 steps (4 hours)
+HPC 1GPU      | 0.35-0.41              | ~86% at 1000 steps (4 hours)
 
 Usage:
 Please see the tutorial and website for how to download the CIFAR-10
